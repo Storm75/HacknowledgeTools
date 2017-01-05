@@ -1,0 +1,18 @@
+###BASE URLS TO SCRAP###
+https://portswigger.net/Burp/FreeReleasesArchive/
+#https://portswigger.net/Burp/FreeDownload/
+#https://cirt.net/source/nikto/ARCHIVE/
+http://archive.aircrack-ng.org/aircrack-ng/
+http://archive.aircrack-ng.org/aircrack-old/
+#http://download.openwall.net/pub/projects/john/
+#https://www.wireshark.org/download/
+#https://ettercap.github.io/ettercap/downloads.html
+#https://www.rapid7.com/products/metasploit/download.jsp
+#GITHUBS
+#https://api.github.com/repos/beefproject/beef/tags
+#https://api.github.com/repos/rapid7/metasploit-framework/tags
+#https://api.github.com/repos/sqlmapproject/sqlmap/tags
+#https://api.github.com/repos/the-tcpdump-group/libpcap/tags
+#https://api.github.com/repos/the-tcpdump-group/tcpdump/tags
+https://api.github.com/repos/wpscanteam/wpscan/tags
+#https://api.github.com/repos/hashcat/hashcat/tags
